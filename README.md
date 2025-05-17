@@ -1,20 +1,10 @@
 # Browsing History and Notepad Parser
 
-By Muhammad Musaab 22i1560, Syed Arham Ahmed 22i1552, and some others.
+By Muhammad Musaab, Syed Arham Ahmed, and some others.
 
 # Description
 
 Python 3 tool to fetch, compile, and view **all browsing data** and **unsaved Notepad++ tab content** on Windows 11\.
-
-# Table of Contents
-
-1. \[Installation\](\#installation)  
-2. \[Usage\](\#usage)  
-3. \[Features\](\#features)  
-4. \[Testing\](\#testing)  
-5. \[Contributing\](\#contributing)  
-6. \[License\](\#license)  
-7. \[Acknowledgements\](\#acknowledgements)
 
 # Installation
 
